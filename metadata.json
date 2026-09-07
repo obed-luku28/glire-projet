@@ -1,0 +1,6 @@
+{
+  "name": "GLIRE - Finance & Conseil",
+  "description": "Cabinet de conseil en finance et stratégie d'entreprise GLIRE. Accompagnement stratégique, optimisation financière en dollars ($) et croissance durable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
